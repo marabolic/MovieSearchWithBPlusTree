@@ -1,0 +1,15 @@
+original_language,original_title,release_date,revenue,runtime
+en,Avatar,12/10/2009,2787965087,162
+en,Pirates of the Caribbean: At World's End,5/19/2007,961000000,169
+en,Spectre,10/26/2015,880674609,148
+en,The Dark Knight Rises,7/16/2012,1084939099,165
+en,John Carter,3/7/2012,284139100,132
+en,Spider-Man 3,5/1/2007,890871626,139
+en,Tangled,11/24/2010,591794936,100
+en,Avengers: Age of Ultron,4/22/2015,1405403694,141
+en,Harry Potter and the Half-Blood Prince,7/7/2009,933959197,153
+en,Batman v Superman: Dawn of Justice,3/23/2016,873260194,151
+en,Superman Returns,6/28/2006,391081192,154
+en,Quantum of Solace,10/30/2008,586090727,106
+en,Pirates of the Caribbean: Dead Man's Chest,6/20/2006,1065659812,151
+en,The Lone Ranger,7/3/2013,89289910,149

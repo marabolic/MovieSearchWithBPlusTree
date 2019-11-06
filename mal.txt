@@ -1,0 +1,186 @@
+original_language,original_title,release_date,revenue,runtime
+en,Avatar,12/10/2009,2787965087,162
+en,Pirates of the Caribbean: At World's End,5/19/2007,961000000,169
+en,Spectre,10/26/2015,880674609,148
+en,The Dark Knight Rises,7/16/2012,1084939099,165
+en,John Carter,3/7/2012,284139100,132
+en,Spider-Man 3,5/1/2007,890871626,139
+en,Tangled,11/24/2010,591794936,100
+en,Avengers: Age of Ultron,4/22/2015,1405403694,141
+en,Harry Potter and the Half-Blood Prince,7/7/2009,933959197,153
+en,Batman v Superman: Dawn of Justice,3/23/2016,873260194,151
+en,Superman Returns,6/28/2006,391081192,154
+en,Quantum of Solace,10/30/2008,586090727,106
+en,Pirates of the Caribbean: Dead Man's Chest,6/20/2006,1065659812,151
+en,The Lone Ranger,7/3/2013,89289910,149
+en,Man of Steel,6/12/2013,662845518,143
+en,The Chronicles of Narnia: Prince Caspian,5/15/2008,419651413,150
+en,The Avengers,4/25/2012,1519557910,143
+en,Pirates of the Caribbean: On Stranger Tides,5/14/2011,1045713802,136
+en,Men in Black 3,5/23/2012,624026776,106
+en,The Hobbit: The Battle of the Five Armies,12/10/2014,956019788,144
+en,The Amazing Spider-Man,6/27/2012,752215857,136
+en,Robin Hood,5/12/2010,310669540,140
+en,The Hobbit: The Desolation of Smaug,12/11/2013,958400000,161
+en,The Golden Compass,12/4/2007,372234864,113
+en,King Kong,12/14/2005,550000000,187
+en,Titanic,11/18/1997,1845034188,194
+en,Captain America: Civil War,4/27/2016,1153304495,147
+en,Battleship,4/11/2012,303025485,131
+en,Jurassic World,6/9/2015,1513528810,124
+en,Skyfall,10/25/2012,1108561013,143
+en,Spider-Man 2,6/25/2004,783766341,127
+en,Iron Man 3,4/18/2013,1215439994,130
+en,Alice in Wonderland,3/3/2010,1025491110,108
+en,X-Men: The Last Stand,5/24/2006,459359555,104
+en,Monsters University,6/20/2013,743559607,104
+en,Transformers: Revenge of the Fallen,6/19/2009,836297228,150
+en,Transformers: Age of Extinction,6/25/2014,1091405097,165
+en,Oz: The Great and Powerful,3/7/2013,491868548,130
+en,The Amazing Spider-Man 2,4/16/2014,705717432,142
+en,TRON: Legacy,12/10/2010,400062763,125
+en,Cars 2,6/11/2011,559852396,106
+en,Green Lantern,6/16/2011,219851172,114
+en,Toy Story 3,6/16/2010,1066969703,103
+en,Terminator Salvation,5/20/2009,371353001,115
+en,Furious 7,4/1/2015,1506249360,137
+en,World War Z,6/20/2013,531865000,116
+en,X-Men: Days of Future Past,5/15/2014,747862775,131
+en,Star Trek Into Darkness,5/5/2013,467365246,132
+en,Jack the Giant Slayer,2/27/2013,197687603,114
+en,The Great Gatsby,5/10/2013,351040419,143
+en,Prince of Persia: The Sands of Time,5/19/2010,335154643,116
+en,Pacific Rim,7/11/2013,407602906,131
+en,Transformers: Dark of the Moon,6/28/2011,1123746996,154
+en,Indiana Jones and the Kingdom of the Crystal Skull,5/21/2008,786636033,122
+en,The Good Dinosaur,11/14/2015,331926147,93
+en,Brave,6/21/2012,538983207,93
+en,Star Trek Beyond,7/7/2016,343471816,122
+en,WALL·E,6/22/2008,521311860,98
+en,Rush Hour 3,8/8/2007,258022233,91
+en,2012,10/10/2009,769653595,158
+en,A Christmas Carol,11/4/2009,325233863,96
+en,Jupiter Ascending,2/4/2015,183987723,124
+en,The Legend of Tarzan,6/29/2016,356743061,109
+en,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",12/7/2005,748806957,143
+en,X-Men: Apocalypse,5/18/2016,543934787,144
+en,The Dark Knight,7/16/2008,1004558444,152
+en,Up,5/13/2009,735099082,96
+en,Monsters vs Aliens,3/19/2009,381509870,94
+en,Iron Man,4/30/2008,585174222,126
+en,Hugo,11/22/2011,185770160,126
+en,Wild Wild West,6/29/1999,222104681,106
+en,The Mummy: Tomb of the Dragon Emperor,7/1/2008,401128639,112
+en,Suicide Squad,8/2/2016,745000000,123
+en,Evan Almighty,6/9/2007,173000000,96
+en,Edge of Tomorrow,5/27/2014,370541256,113
+en,Waterworld,7/28/1995,264218220,135
+en,G.I. Joe: The Rise of Cobra,8/4/2009,302469017,118
+en,Inside Out,6/9/2015,857611174,94
+en,The Jungle Book,4/7/2016,966550600,106
+en,Iron Man 2,4/28/2010,623933331,124
+en,Snow White and the Huntsman,5/30/2012,396600000,127
+en,Maleficent,5/28/2014,758539785,97
+en,Dawn of the Planet of the Apes,6/26/2014,710644566,130
+en,The Lovers,2/13/2015,0,109
+en,47 Ronin,12/6/2013,150962475,119
+en,Captain America: The Winter Soldier,3/20/2014,714766572,136
+en,Shrek Forever After,5/16/2010,752600867,93
+en,Tomorrowland,5/19/2015,209154322,130
+en,Big Hero 6,10/24/2014,652105443,102
+en,Wreck-It Ralph,11/1/2012,471222889,108
+en,The Polar Express,11/10/2004,305875730,100
+en,Independence Day: Resurgence,6/22/2016,389681935,120
+en,How to Train Your Dragon,3/5/2010,494878759,98
+en,Terminator 3: Rise of the Machines,7/2/2003,435000000,109
+en,Guardians of the Galaxy,7/30/2014,773328629,121
+en,Interstellar,11/5/2014,675120017,169
+en,Inception,7/14/2010,825532764,148
+en,The Hobbit: An Unexpected Journey,11/26/2012,1021103568,169
+en,The Fast and the Furious,6/22/2001,207283925,106
+en,The Curious Case of Benjamin Button,11/24/2008,333932083,166
+en,X-Men: First Class,5/24/2011,353624124,132
+en,The Hunger Games: Mockingjay - Part 2,11/18/2015,653428261,137
+en,The Sorcerer's Apprentice,7/13/2010,215283742,109
+en,Poseidon,5/12/2006,181674817,99
+en,Alice Through the Looking Glass,5/25/2016,299370084,113
+en,Shrek the Third,5/17/2007,798958165,93
+en,Warcraft,5/25/2016,433677183,123
+en,Terminator Genisys,6/23/2015,440603537,126
+en,The Chronicles of Narnia: The Voyage of the Dawn Treader,8/13/2010,415686217,113
+en,Pearl Harbor,5/21/2001,449220945,183
+en,Transformers,6/27/2007,709709780,144
+en,Alexander,11/21/2004,167298192,175
+en,Harry Potter and the Order of the Phoenix,6/28/2007,938212738,138
+en,Harry Potter and the Goblet of Fire,11/5/2005,895921036,157
+en,Hancock,7/1/2008,624029371,92
+en,I Am Legend,12/14/2007,585349010,101
+en,Charlie and the Chocolate Factory,7/13/2005,474968763,115
+en,Ratatouille,6/22/2007,623722818,111
+en,Batman Begins,6/10/2005,374218673,140
+en,Madagascar: Escape 2 Africa,10/30/2008,603900354,89
+en,Night at the Museum: Battle of the Smithsonian,5/20/2009,413106170,105
+en,X-Men Origins: Wolverine,4/28/2009,373062864,107
+en,The Matrix Revolutions,11/5/2003,424988211,129
+en,Frozen,11/27/2013,1274219009,102
+en,The Matrix Reloaded,5/15/2003,738599701,138
+en,Thor: The Dark World,10/29/2013,644571402,112
+en,Mad Max: Fury Road,5/13/2015,378858340,120
+en,Angels & Demons,5/13/2009,356613439,138
+en,Thor,4/21/2011,449326618,115
+en,Bolt,11/21/2008,309979994,98
+en,G-Force,7/21/2009,292817841,88
+en,Wrath of the Titans,3/27/2012,301000000,99
+en,Dark Shadows,5/8/2012,245527149,113
+en,Mission: Impossible - Rogue Nation,7/23/2015,682330139,131
+en,The Wolfman,2/11/2010,0,102
+en,Bee Movie,10/28/2007,287594577,91
+en,Kung Fu Panda 2,5/25/2011,665692281,91
+en,The Last Airbender,6/30/2010,318502923,103
+en,Mission: Impossible III,5/3/2006,397850012,126
+en,White House Down,6/27/2013,205366737,131
+en,Mars Needs Moms,3/9/2011,38992758,88
+en,Flushed Away,10/22/2006,64459316,85
+en,Pan,9/24/2015,128388320,111
+en,Mr. Peabody & Sherman,2/7/2014,272912430,92
+en,Troy,5/13/2004,497409852,163
+en,Madagascar 3: Europe's Most Wanted,6/6/2012,746921274,93
+en,Die Another Day,11/17/2002,431971116,133
+en,Ghostbusters,7/14/2016,229147509,116
+en,Armageddon,7/1/1998,553799566,151
+en,Men in Black II,7/3/2002,441818803,88
+en,Beowulf,11/5/2007,195735876,115
+en,Kung Fu Panda 3,1/23/2016,521170825,95
+en,Mission: Impossible - Ghost Protocol,12/7/2011,694713380,133
+en,Rise of the Guardians,11/21/2012,306941670,97
+en,Fun with Dick and Jane,12/21/2005,202026112,90
+en,The Last Samurai,12/5/2003,456758981,154
+en,Exodus: Gods and Kings,12/3/2014,268031828,150
+en,Star Trek,5/6/2009,385680446,127
+en,Spider-Man,5/1/2002,821708551,121
+en,How to Train Your Dragon 2,6/12/2014,609123048,102
+en,Gods of Egypt,2/25/2016,150680864,127
+en,Stealth,7/28/2005,76932943,121
+en,Watchmen,3/5/2009,185258983,163
+en,Lethal Weapon 4,7/10/1998,285444603,127
+en,Hulk,6/19/2003,245360480,138
+en,G.I. Joe: Retaliation,3/26/2013,371876278,110
+en,Sahara,4/6/2005,119269486,124
+en,Final Fantasy: The Spirits Within,7/2/2001,85131830,106
+en,Captain America: The First Avenger,7/22/2011,370569774,124
+en,The World Is Not Enough,11/8/1999,361832400,128
+en,Master and Commander: The Far Side of the World,11/14/2003,212011111,138
+en,The Twilight Saga: Breaking Dawn - Part 2,11/13/2012,829000000,115
+en,Happy Feet Two,11/17/2011,150406466,100
+en,The Incredible Hulk,6/12/2008,163712074,114
+en,The BFG,6/1/2016,183345589,120
+en,The Revenant,12/25/2015,532950503,156
+en,Turbo,7/11/2013,282570682,96
+en,Rango,3/2/2011,245724603,107
+en,Penguins of Madagascar,11/22/2014,373552094,92
+en,The Bourne Ultimatum,8/3/2007,442824138,115
+en,Kung Fu Panda,6/4/2008,631744560,90
+en,Ant-Man,7/14/2015,519311965,117
+en,The Hunger Games: Catching Fire,11/15/2013,847423452,146
+en,Home,3/18/2015,368871007,94
+en,War of the Worlds,6/28/2005,591739379,116
